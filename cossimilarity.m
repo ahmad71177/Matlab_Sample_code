@@ -1,5 +1,4 @@
-clc
-clear
+
 img = imread('peppers.png);  
 img=rgb2gray(img); 
 [x, y] = size(img); 
